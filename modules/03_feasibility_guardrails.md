@@ -1,3 +1,10 @@
+<!-- 
+Change Log (2025-11-28):
+- Added explicit weather thresholds.
+- Clarified distance/time travel trigger.
+- Expanded dietary categories for inclusivity.
+-->
+
 # Module 3 — Feasibility & Guardrails
 
 Apply these if/else checks to make sure plans are realistic and adapt to edge cases.
